@@ -7,3 +7,6 @@ FOR SOME REASON IT SEEMS TO ONLY WORK IF THERE IS BOTH A LOCAL AND GLOBAL VERSIO
 ALSO THERE IS A SMALL CHANCE IMAGES AND OTHER PAGE DETERMINED FEATURES MAY (PROBABLY NOT THOUGH BECAUSE WE FIXED THAT BUG I BELIEVE)
 BUT THEY MAY NOT WORK. IF THIS IS THE CASE, REMOVE THEM FROM THE ASSETS FOLDER, RESTART THE SERVER, AND PLACE THEM BACK AGAIN. THIS
 SEEMS TO WORK FOR SOME WEIRD REASON.
+
+
+This was a basic website that a team i was part of created for the final project for Advanced Internet Programming. This project didn't concentrate on being creative with the design of the site but mainly showing that we can use the framwork angular and understand its features enough to create a dynamic website. 
